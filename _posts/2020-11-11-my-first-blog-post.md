@@ -1,6 +1,6 @@
 ---
-title: "Welcome to my blog"
-date: 2019-01-20
+title: "Blogging like a Hacker"
+date: 2020-11-11
 ---
 
 # this blog is my first blog in using github.
